@@ -14,7 +14,7 @@ arms__fingernails
 arms__fingernails--color-red
 legs
 legs__knees
-legs__knee--left-bent
+legs__knees--left-bent
 
 
 ## Emmet maket
